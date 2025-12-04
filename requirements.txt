@@ -2,3 +2,9 @@ crewai
 crewai-tools
 serpapi
 dotenv
+beautifulsoup4
+langchain-chroma
+langchain-core
+langchain_text_splitters
+langchain_community
+langchain_openai
