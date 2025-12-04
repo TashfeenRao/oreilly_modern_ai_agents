@@ -1,0 +1,12 @@
+setup.py
+agentic_ai.egg-info/PKG-INFO
+agentic_ai.egg-info/SOURCES.txt
+agentic_ai.egg-info/dependency_links.txt
+agentic_ai.egg-info/requires.txt
+agentic_ai.egg-info/top_level.txt
+crew_ai_agents/__init__.py
+crew_ai_agents/main.py
+crew_ai_agents/agents/__init__.py
+crew_ai_agents/agents/research_writer_agent.py
+crew_ai_agents/config/__init__.py
+crew_ai_agents/config/settings.py
