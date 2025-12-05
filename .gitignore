@@ -1,2 +1,8 @@
 .env
 venv/
+__pycache__/
+langchain/chroma_db/
+langchain/__pypackages__/
+langchain/chroma_db/chroma.sqlite3
+langchain/chroma_db/97cdd072-226c-44aa-b88c-73f31f19b1e7/length.bin
+chroma_db/
